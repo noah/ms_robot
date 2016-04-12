@@ -2,7 +2,7 @@
 
 ### Ms. Robot
 
-Robot sounds for [Raptor-Fics-Interface/raptor](Raptor FICS interface).
+Robot sounds for [Raptor FICS interface](http://www.github.com/Raptor-Fics-Interface/raptor).
 
 
 ### Author
